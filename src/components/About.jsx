@@ -80,7 +80,7 @@ name = "about" className='  relative  flex flex-col text-center  mx-auto   px-10
 
         <div className='w-3/4 mx-auto md:mx-0 justify-evenly items-center flex flex-col'>
         <h4 className='text-2xl font-semibold md:text-3xl lg:text-4xl xl:text-5xl '>Here is a <span className='underline decoration-[#F7AB0A]/50'>little</span> background</h4>
-        <p className='text-base sm:mt-5 md:text-left sm:text-center mb-6 '>I’m currently pursuing Honors in Bachelor of Commerce from St. Xavier’s College (Autonomous), Kolkata.<br /> <br />
+        <p className='text-base sm:mt-5 md:text-left sm:text-center mb-6 '>I’m currently pursuing Bachelor's of Commerce in Finance and Accountancy at St. Xavier’s College (Autonomous), Kolkata.<br /> <br />
 From tallying the assets and liabilities of Balance Sheet to lines of code on a web page, I found my interest in coding which led me  combining the worlds of logic and creative designs to make eye-catching, accessible, and user- friendly websites and applications.<br />
 I’m excited to make the leap and continue refining my skills with the right company.<br /> <br />
 <b>When I’m not in front of a computer screen,</b> I’m probably reading books or playing cricket outdoor.
